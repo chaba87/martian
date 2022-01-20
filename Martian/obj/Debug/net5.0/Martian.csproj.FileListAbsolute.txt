@@ -1,0 +1,16 @@
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\bin\Debug\net5.0\Martian.exe
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\bin\Debug\net5.0\Martian.deps.json
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\bin\Debug\net5.0\Martian.runtimeconfig.json
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\bin\Debug\net5.0\Martian.runtimeconfig.dev.json
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\bin\Debug\net5.0\Martian.dll
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\bin\Debug\net5.0\ref\Martian.dll
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\bin\Debug\net5.0\Martian.pdb
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\obj\Debug\net5.0\Martian.csproj.AssemblyReference.cache
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\obj\Debug\net5.0\Martian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\obj\Debug\net5.0\Martian.AssemblyInfoInputs.cache
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\obj\Debug\net5.0\Martian.AssemblyInfo.cs
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\obj\Debug\net5.0\Martian.csproj.CoreCompileInputs.cache
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\obj\Debug\net5.0\Martian.dll
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\obj\Debug\net5.0\ref\Martian.dll
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\obj\Debug\net5.0\Martian.pdb
+C:\Users\german.colman\Documents\Visual Studio 2022\Projects\Martian\Martian\obj\Debug\net5.0\Martian.genruntimeconfig.cache
